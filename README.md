@@ -26,5 +26,6 @@ Finish, your index.html should be at github.com zxc repository.
 2. `git remote rm origin/upstream`
 
 
-## Branch
+## Clone
+1. `git clone https://github.com/twbs/bootstrap`
 
