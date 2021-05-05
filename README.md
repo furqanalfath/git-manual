@@ -21,4 +21,10 @@ Finish, your index.html should be at github.com zxc repository.
 
 ---
 
+## Remove Remote
+`git remote -v`
+`git remote rm origin/upstream`
+
+
 ## Branch
+
