@@ -6,7 +6,7 @@ Tutorial Git Upload to Github
 2. Create new folder and type 
 `git init`
 3. Create new blank file `touch index.html`
-4. Add to git `git add index.html`
+4. Add to git `git add index.html` or `git add -all` for all files in folder
 5. Commit to git `git commit -m "Your Comment!"`
 
 ## Open github.com
