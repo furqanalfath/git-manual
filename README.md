@@ -26,7 +26,7 @@ Finish, your index.html should be at github.com zxc repository.
 2. `git remote rm origin/upstream`
 
 ## Remove directory from git but NOT local
-<!-- https://stackoverflow.com/questions/6313126/how-to-remove-a-directory-from-git-repository*/ -->
+https://stackoverflow.com/questions/6313126/how-to-remove-a-directory-from-git-repository*/
 
 `git rm -r --cached myFolder`
 `git commit -m "your comment"`
